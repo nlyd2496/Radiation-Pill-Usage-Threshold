@@ -7,7 +7,7 @@ namespace 辐射药丸使用阈值Radiation_Pill_Usage_Threshold
     [RestartRequired]
     [JsonObject(MemberSerialization.OptIn)]
 	[ConfigFile("Controler.json", true, false)]
-    [ModInfo("https://github.com/nlyd2496/Radiation-Tolerance.git", "mmm.png", true)]
+    [ModInfo("https://github.com/nlyd2496/Radiation-Pill-Usage-Threshold.git", "mmm.png", true)]
     public class TestModSettings
 	{
         //--------------------------
